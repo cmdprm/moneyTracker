@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CE3A39052910022E009F47B5 /* CalculatorBalance.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A39042910022E009F47B5 /* CalculatorBalance.swift */; };
-		CE3A390B29104D9A009F47B5 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A390A29104D9A009F47B5 /* Category.swift */; };
 		CE925906290B4CB300AC4E2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE925905290B4CB300AC4E2E /* AppDelegate.swift */; };
 		CE925908290B4CB300AC4E2E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE925907290B4CB300AC4E2E /* SceneDelegate.swift */; };
 		CE92590A290B4CB300AC4E2E /* AccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE925909290B4CB300AC4E2E /* AccountViewController.swift */; };
@@ -27,7 +26,6 @@
 
 /* Begin PBXFileReference section */
 		CE3A39042910022E009F47B5 /* CalculatorBalance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBalance.swift; sourceTree = "<group>"; };
-		CE3A390A29104D9A009F47B5 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		CE925902290B4CB300AC4E2E /* moneyTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = moneyTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE925905290B4CB300AC4E2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE925907290B4CB300AC4E2E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -123,7 +121,6 @@
 				CE92591F290B531700AC4E2E /* Operation.swift */,
 				CEB0EF24290CA27200615A2D /* Lists.swift */,
 				CE3A39042910022E009F47B5 /* CalculatorBalance.swift */,
-				CE3A390A29104D9A009F47B5 /* Category.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -220,7 +217,6 @@
 				CEB0EF25290CA27200615A2D /* Lists.swift in Sources */,
 				CEB0EF2B290CA96300615A2D /* EditViewController.swift in Sources */,
 				CE3A39052910022E009F47B5 /* CalculatorBalance.swift in Sources */,
-				CE3A390B29104D9A009F47B5 /* Category.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
